@@ -1,5 +1,3 @@
-# Konsistente Charaktere mit KI-Bildgeneratoren (am Beispiel Scenario)
-
 ## Methode 1: Der Prompt macht's (Text-to-Image)
 
 ## Methode 2: Wenn die Worte ausgehen (Image-to-Image)
